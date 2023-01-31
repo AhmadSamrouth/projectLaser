@@ -15,9 +15,8 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from django.urls import path
 
-from crypto.cryptoApp import views
+from cryptoApp import views
 
 urlpatterns = [
     path('', views.home, name='home'),
