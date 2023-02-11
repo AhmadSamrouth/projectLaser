@@ -19,6 +19,8 @@ from django.urls import path
 from cryptoApp import views
 
 urlpatterns = [
+    path('data', views.fetch_data_view, name='fetch_data_view'),
     path('', views.home, name='home'),
     path('admin/', admin.site.urls),
+    path('predict/', views.predict, name='predict'),
 ]

@@ -19,3 +19,4 @@ interval = 'daily'
 url = f'https://min-api.cryptocompare.com/data/v2/histo{interval}?fsym={fsym}&tsym={tsym}&api_key={api_key}'
 response = requests.get(url)
 data = json.loads(response.text)
+
