@@ -36,7 +36,7 @@ def get_precip(gooddate):
 
 def fetch_data_view(request):
     # Make the API request and get the data
-    response = requests.get('https://min-api.cryptocompare.com/data/v2/histominute?fsym=BTC&tsym=GBP&limit=30')
+    response = requests.get('https://min-api.cryptocompare.com/data/v2/histoday?fsym=BTC&tsym=USD&limit=30')
    # data = response.json()
 
     data = json.loads(response.text)
