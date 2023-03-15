@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f346e898-40d9-4003-90fb-412d3e389986" name="Changes" comment="">
+    <list default="true" id="f346e898-40d9-4003-90fb-412d3e389986" name="Changes" comment="9/3">
+      <change afterPath="$PROJECT_DIR$/crypto/cryptoApp/trained_prediciton_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crypto/templates/BBB.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crypto/templates/backGroundB.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crypto/templates/buy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crypto/templates/sell.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crypto/crypto/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/crypto/crypto/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/crypto/cryptoApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/crypto/cryptoApp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crypto/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/crypto/templates/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -138,7 +145,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678390630362</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="9/3">
+      <created>1678823725001</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678823725001</updated>
+    </task>
+    <task id="LOCAL-00006" summary="9/3">
+      <created>1678823841776</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678823841776</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
